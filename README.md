@@ -22,4 +22,9 @@ This CV is designed to imitate a .css file, opened in Visual Studio Code, mainly
 
 ## Project proposal
 
-https://www.figma.com/file/xeftLet4EmphcjOLuyQ6Gg/CV_F-(Copy)?node-id=0%3A1
+[Figma](https://www.figma.com/file/xeftLet4EmphcjOLuyQ6Gg/CV_F-(Copy)?node-id=0%3A1)
+
+## [Final result](https://u1968408.github.io/CVFacundoRR/)
+
+https://u1968408.github.io/CVFacundoRR/
+
