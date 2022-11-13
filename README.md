@@ -13,12 +13,16 @@ The page is only formed with two primary files, the index.html file and a Progra
 
   -	**Visual design: which color palette will you use? Which typography? Which page layout? Look for inspirational similar projects.**
 
-**Color palette:** ![Palette](https://cdn.discordapp.com/attachments/890553627188535306/1041425933384568942/Palette.png) -> #252526 / #519CD6 / #9FD7F7 / #7F7F7F / #F6D700 / #DADCAA / #679955 / #CCCCCC
+**Color palette:** 
+
+![Palette](https://cdn.discordapp.com/attachments/890553627188535306/1041425933384568942/Palette.png)
+
+ #252526 / #519CD6 / #9FD7F7 / #7F7F7F / #F6D700 / #DADCAA / #679955 / #CCCCCC
 
 **Typography:** The information section is writtern in font Arial, Helvetica, sans-serif; while the experience part is written in font CodeNewRoman.
 
 **Page layout:**
-This CV is designed to imitate a .css file, opened in Visual Studio Code, mainly because it's directed to jobs related to computering and programming. We can differentiate to different sections, one located in the left part of the page and the other one in it's right. In the left section we can find the job seeker's information in a way that hints a file explorer, while in the right part of the CV we can see the experience section, written in a way reminiscent of .css code. On top of the page we can see another reference, which hints the file's windows opened in the program.
+This CV is designed to imitate a .html file with js scripts, opened in Visual Studio Code, mainly because it's directed to jobs related to computering and programming. We can differentiate to different sections, one located in the left part of the page and the other one in it's right. In the left section we can find the job seeker's information in a way that hints a file explorer, while in the right part of the CV we can see the experience section, written in a way reminiscent of .css code. On top of the page we can see another reference, which hints the file's windows opened in the program.
 
 ## Project proposal
 
